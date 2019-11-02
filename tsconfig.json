@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "lib/helper.js"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
